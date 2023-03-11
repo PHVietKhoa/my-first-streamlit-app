@@ -18,4 +18,3 @@ Original file is located at
 # st.balloons()
 # st.snow()
 
-!streamlit run app.py & npx localtunnel --port 8501
